@@ -46,7 +46,7 @@
   "A dark theme tuned to inner harmonies.")
 
 (let ((bg1 "#1E1E1E")
-      (bg2 "#404040")
+      (bg2 "#282828")
       (bg3 "#323232") ; The primary "secondary" background color.
       (bg4 "gray30")
       (bg5 "gray15")
